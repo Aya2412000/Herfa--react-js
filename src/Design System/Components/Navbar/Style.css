@@ -1,0 +1,15 @@
+.H-Logo{
+  color: chocolate;
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: bold;
+}
+ul{
+  gap: 3rem;
+}
+li{
+  font-size: 2rem;
+}
+a.active{
+  color: chocolate;
+}
